@@ -1,2 +1,4 @@
 # file containing your gitlab credentials
 private-token.json
+
+node_modules/*

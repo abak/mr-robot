@@ -1,0 +1,24 @@
+{
+  "name": "mr-robot",
+  "version": "0.0.1",
+  "description": "A slackbot that tells you when you're late for your review",
+  "main": "lib/mr-robot.js",
+  "dependencies": {
+    "botkit" : "^0.2.2",
+    "request": "^2.67.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abak/mr-robot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abak/mr-robot/issues"
+  },
+  "keywords": [
+    "gitlab",
+    "chatbot",
+    "slack"
+  ],
+  "author": "adrien.bak@gmail.com",
+  "license": "MIT"
+}

@@ -1,4 +1,5 @@
 # file containing your gitlab credentials
 private-token.json
+slack-token
 
 node_modules/*
